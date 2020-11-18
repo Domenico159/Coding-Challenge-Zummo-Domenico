@@ -1,0 +1,86 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.box-center{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  height: 700px;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  text-align: center;
+
+}
+
+.logo-lim{
+  color: limegreen;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 80px;
+}
+
+.titolo{
+      padding-bottom: 15px;
+      font-family: arial;
+}
+
+.navbar{
+  background-color: limegreen;
+  width: 80%;
+  height: 30px;
+  padding-top: 4px;
+  margin: auto;
+}
+
+.contenuto{
+  margin: auto;
+  text-align: left;
+  color: white;
+  padding-top: 20px;
+  padding-left: 100px;
+}
+
+.charge-bar-gino22{
+       background-color:rgba(255,180,70,0.7);
+       width: 280px;
+       height: 25px;
+       border-radius: 4px;
+}
+
+.charge-bar-mike24{
+       background-color:rgba(0,204,0,0.7);
+       width: 500px;
+       height: 25px;
+       border-radius: 4px;
+}
+
+.charge-bar-fede154{
+       background-color: rgba(255,50,80,0.8);
+       width: 120px;
+       height: 25px;
+       border-radius: 4px;
+}
+
+.spazio{
+    margin-top:20px;
+}
+
+.text-size{
+  font-size: 25px;
+  font-family: helvetica;
+}
+
+.text-sizep{
+  font-size: 12px;
+  font-family: arial;
+}
